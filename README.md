@@ -109,6 +109,28 @@ Each post includes:
 
 ---
 
+## Enhancement Files
+
+### Content Optimization
+- `viral-hooks.md` - 200+ scroll-stopping opening lines by content type
+- `tiktok-scripts.md` - Full spoken scripts for video content with timing & delivery notes
+- `carousel-breakdowns.md` - 8 ready-to-design 10-slide Instagram carousels
+
+### Engagement & Growth
+- `engagement-playbook.md` - Reply templates, ratio strategies, DM templates
+- `collaboration-targets.md` - Account categories to target, collab formats, outreach templates
+- `story-calendar.md` - Daily story ideas, polls, Q&As, weekly templates
+
+### Production & Operations
+- `sound-suggestions.md` - Audio strategy, trending sound types, platform-specific notes
+- `analytics-tracker.md` - Daily/weekly/monthly tracking templates, benchmarks, pivot triggers
+- `crisis-playbook.md` - Handling virality, hate waves, accusations, platform issues
+
+### Timing & Relevance
+- `seasonal-hooks.md` - Sporting events, Slovak holidays, weather seasons, cultural moments
+
+---
+
 ## Legal Disclaimer
 
 This content calendar is for entertainment and creative purposes. Always follow local laws regarding betting, substances, and content creation. The creator is not responsible for how this content is used.
